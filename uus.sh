@@ -1,3 +1,3 @@
 #!/usr/bin/env bash
-
-urxvt -cd $PWD
+#opens a new urxvt in working directory
+urxvt -cd $PWD &
